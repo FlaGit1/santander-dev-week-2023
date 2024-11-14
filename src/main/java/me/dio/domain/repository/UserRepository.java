@@ -1,4 +1,4 @@
-package me.dio.domain.model.repository;
+package me.dio.domain.repository;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
